@@ -1,0 +1,6 @@
+  @font-face {
+    font-family: 'Avenir Next';
+    src: url('https://cdn.jsdelivr.net/gh/SM-TECH-pixel/safetymode-fonts@master/fonts/AvenirNextCyr-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+  }
